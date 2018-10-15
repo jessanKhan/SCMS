@@ -1,0 +1,11 @@
+Sidebar & top notification bar added: 
+	dashboard, 
+	classes,
+	student-attendance, 
+	employee-attendance, 
+	teacher-attendance, 
+	add-teacher,
+	add-employee, 
+	account-setting
+
+sidebar default color: 7386D5
